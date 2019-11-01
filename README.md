@@ -7,7 +7,7 @@ https://www.kaggle.com/lava18/google-play-store-apps
 
 
 
-**Dataset and Attributes**
+## Dataset and Attributes
 
 The dataset includes 9360 apps and 14 features after final cleaning:
 
@@ -42,7 +42,7 @@ The dataset includes 9360 apps and 14 features after final cleaning:
   
   
 
-**Goal of the Project**
+## Goal of the Project
 
 I came up with five different business questions and my goal is answer them. Please find questions below:
 
@@ -59,7 +59,7 @@ I came up with five different business questions and my goal is answer them. Ple
 
 
 
-**Prediction**
+## Prediction 
 
 The target of prediction is a rating column. This is a regression model. I will be predicting continues variable. 
 
