@@ -6,6 +6,7 @@ https://www.kaggle.com/lava18/google-play-store-apps
 
 
 
+
 **Dataset and Attributes**
 
 The dataset includes 9360 apps and 14 features after final cleaning:
@@ -39,6 +40,7 @@ The dataset includes 9360 apps and 14 features after final cleaning:
 - Day
 
   
+  
 
 **Goal of the Project**
 
@@ -53,6 +55,7 @@ I came up with five different business questions and my goal is answer them. Ple
 - #### Can we predict the rating of apps based on the other features in the dataset?
 
 - #### What are the most important features determining the rating of the apps?
+
 
 
 
