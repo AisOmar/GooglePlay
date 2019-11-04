@@ -63,3 +63,11 @@ I came up with five different business questions and my goal is answer them. Ple
 
 The target of prediction is a rating column. This is a regression model. I will be predicting continues variable. 
 
+### Summary 
+
+1. After trying out different models like: Linear Regression, XGBoost Regressor, Random Forest Regressor I was not able to get the ideal model. 
+2. The highest r squared is 0.08, which means only 8% of the model is explained. 
+
+#### The features of the model are not crucial to predict the rating of different apps. 
+
+
