@@ -5,7 +5,9 @@ This dataset was scraped from Google Play Store and stored in Kaggle:
 https://www.kaggle.com/lava18/google-play-store-apps
 
 
+# Link to a medium article 
 
+https://medium.com/@aisuluomar123/is-it-possible-to-predict-rating-of-google-play-store-apps-based-on-the-given-information-da9a44a3ac1e
 
 ## Dataset and Attributes
 
