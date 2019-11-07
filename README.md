@@ -61,13 +61,13 @@ I came up with five different business questions and my goal is answer them. Ple
 
 ## Prediction 
 
-The target of prediction is a rating column. This is a regression model. I will be predicting continues variable. 
+The target of prediction is a rating column. This is a regression model. I will be predicting continuous variable. 
 
 ### Summary 
 
-1. After trying out different models like: Linear Regression, XGBoost Regressor, Random Forest Regressor I was not able to get the ideal model. 
-2. The highest r squared is 0.08, which means only 8% of the model is explained. 
+To predict rating, I tired different models like Linear Regression, Random Forest Regressor, and XGBoost Regressor models. After applying those models to my dataset, the best MSE and RMSE were produced by XGBoost Regressor.
 
-#### The features of the model are not crucial to predict the rating of different apps. 
+The best iteration of XGBoost Regressor's MSE is 0.1984, and RMSE of 0.4455.
+
 
 
